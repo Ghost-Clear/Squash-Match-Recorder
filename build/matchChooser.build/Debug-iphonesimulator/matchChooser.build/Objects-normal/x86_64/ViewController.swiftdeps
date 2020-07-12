@@ -1,0 +1,695 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "12matchChooser14ViewControllerC"
+provides-member:
+- ["12matchChooser14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "CL"
+- "CR"
+- "FL"
+- "FR"
+- "LL"
+- "LR"
+- "currentPlayerLabel"
+- "deleteLast"
+- "finish"
+- "isPlayer1"
+- "playLet"
+- "player1Point"
+- "player1PointLabel"
+- "player2Point"
+- "player2PointLabel"
+- "pointToPlayer1"
+- "pointToPlayer2"
+- "stringToMake1"
+- "stringToMake2"
+- "stringToMakeLabel1"
+- "stringToMakeLabel2"
+- "switchPlayers"
+- "viewDidLoad"
+depends-top-level:
+- !private "!"
+- !private "+="
+- !private "-="
+- !private "=="
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- "UILabel"
+- "UIViewController"
+- !private "UnicodeScalarType"
+- "ViewController"
+- !private "print"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "description"]
+- !private ["Sa", "popLast"]
+- !private ["SK", "append"]
+- !private ["SK", "description"]
+- !private ["SK", "init"]
+- !private ["SK", "popLast"]
+- !private ["So15CALayerDelegateP", "lineBreakMode"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "currentPlayerLabel"]
+- !private ["s7CVarArgP", "description"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isPlayer1"]
+- !private ["s7CVarArgP", "lineBreakMode"]
+- !private ["s7CVarArgP", "player1Point"]
+- !private ["s7CVarArgP", "player1PointLabel"]
+- !private ["s7CVarArgP", "player2Point"]
+- !private ["s7CVarArgP", "player2PointLabel"]
+- !private ["s7CVarArgP", "popLast"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "stringToMake1"]
+- !private ["s7CVarArgP", "stringToMake2"]
+- !private ["s7CVarArgP", "stringToMakeLabel1"]
+- !private ["s7CVarArgP", "stringToMakeLabel2"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "append"]
+- !private ["Sl", "description"]
+- !private ["Sl", "init"]
+- !private ["Sl", "popLast"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "description"]
+- !private ["10Foundation15ContiguousBytesP", "popLast"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "currentPlayerLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isPlayer1"]
+- !private ["s28CustomDebugStringConvertibleP", "lineBreakMode"]
+- !private ["s28CustomDebugStringConvertibleP", "player1Point"]
+- !private ["s28CustomDebugStringConvertibleP", "player1PointLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "player2Point"]
+- !private ["s28CustomDebugStringConvertibleP", "player2PointLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "popLast"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "stringToMake1"]
+- !private ["s28CustomDebugStringConvertibleP", "stringToMake2"]
+- !private ["s28CustomDebugStringConvertibleP", "stringToMakeLabel1"]
+- !private ["s28CustomDebugStringConvertibleP", "stringToMakeLabel2"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "description"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lineBreakMode"]
+- !private ["s17CustomReflectableP", "popLast"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "currentPlayerLabel"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isPlayer1"]
+- !private ["s23CustomStringConvertibleP", "lineBreakMode"]
+- !private ["s23CustomStringConvertibleP", "player1Point"]
+- !private ["s23CustomStringConvertibleP", "player1PointLabel"]
+- !private ["s23CustomStringConvertibleP", "player2Point"]
+- !private ["s23CustomStringConvertibleP", "player2PointLabel"]
+- !private ["s23CustomStringConvertibleP", "popLast"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "stringToMake1"]
+- !private ["s23CustomStringConvertibleP", "stringToMake2"]
+- !private ["s23CustomStringConvertibleP", "stringToMakeLabel1"]
+- !private ["s23CustomStringConvertibleP", "stringToMakeLabel2"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "description"]
+- !private ["10Foundation12DataProtocolP", "popLast"]
+- !private ["Se", "append"]
+- !private ["Se", "description"]
+- !private ["Se", "init"]
+- !private ["Se", "lineBreakMode"]
+- !private ["Se", "popLast"]
+- !private ["Se", "text"]
+- !private ["SE", "append"]
+- !private ["SE", "description"]
+- !private ["SE", "init"]
+- !private ["SE", "lineBreakMode"]
+- !private ["SE", "popLast"]
+- !private ["SE", "text"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "append"]
+- !private ["SQ", "byTruncatingHead"]
+- !private ["SQ", "currentPlayerLabel"]
+- !private ["SQ", "description"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isPlayer1"]
+- !private ["SQ", "lineBreakMode"]
+- !private ["SQ", "player1Point"]
+- !private ["SQ", "player1PointLabel"]
+- !private ["SQ", "player2Point"]
+- !private ["SQ", "player2PointLabel"]
+- !private ["SQ", "popLast"]
+- !private ["SQ", "print"]
+- !private ["SQ", "stringToMake1"]
+- !private ["SQ", "stringToMake2"]
+- !private ["SQ", "stringToMakeLabel1"]
+- !private ["SQ", "stringToMakeLabel2"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "description"]
+- !private ["s25ExpressibleByArrayLiteralP", "popLast"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "append"]
+- !private ["s23ExpressibleByNilLiteralP", "description"]
+- !private ["s23ExpressibleByNilLiteralP", "lineBreakMode"]
+- !private ["s23ExpressibleByNilLiteralP", "popLast"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "append"]
+- !private ["SH", "byTruncatingHead"]
+- !private ["SH", "currentPlayerLabel"]
+- !private ["SH", "description"]
+- !private ["SH", "init"]
+- !private ["SH", "isPlayer1"]
+- !private ["SH", "lineBreakMode"]
+- !private ["SH", "player1Point"]
+- !private ["SH", "player1PointLabel"]
+- !private ["SH", "player2Point"]
+- !private ["SH", "player2PointLabel"]
+- !private ["SH", "popLast"]
+- !private ["SH", "print"]
+- !private ["SH", "stringToMake1"]
+- !private ["SH", "stringToMake2"]
+- !private ["SH", "stringToMakeLabel1"]
+- !private ["SH", "stringToMakeLabel2"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "description"]
+- !private ["SM", "popLast"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "description"]
+- !private ["10Foundation19MutableDataProtocolP", "popLast"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "currentPlayerLabel"]
+- !private ["So8NSCodingP", "isPlayer1"]
+- !private ["So8NSCodingP", "lineBreakMode"]
+- !private ["So8NSCodingP", "player1Point"]
+- !private ["So8NSCodingP", "player1PointLabel"]
+- !private ["So8NSCodingP", "player2Point"]
+- !private ["So8NSCodingP", "player2PointLabel"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "stringToMake1"]
+- !private ["So8NSCodingP", "stringToMake2"]
+- !private ["So8NSCodingP", "stringToMakeLabel1"]
+- !private ["So8NSCodingP", "stringToMakeLabel2"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "currentPlayerLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "isPlayer1"]
+- !private ["So26NSExtensionRequestHandlingP", "player1Point"]
+- !private ["So26NSExtensionRequestHandlingP", "player1PointLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "player2Point"]
+- !private ["So26NSExtensionRequestHandlingP", "player2PointLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "stringToMake1"]
+- !private ["So26NSExtensionRequestHandlingP", "stringToMake2"]
+- !private ["So26NSExtensionRequestHandlingP", "stringToMakeLabel1"]
+- !private ["So26NSExtensionRequestHandlingP", "stringToMakeLabel2"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So15NSLineBreakModeV", "byTruncatingHead"]
+- ["So8NSObjectC", "CL"]
+- ["So8NSObjectC", "CR"]
+- ["So8NSObjectC", "FL"]
+- ["So8NSObjectC", "FR"]
+- ["So8NSObjectC", "LL"]
+- ["So8NSObjectC", "LR"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "currentPlayerLabel"]
+- ["So8NSObjectC", "deleteLast"]
+- ["So8NSObjectC", "finish"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isPlayer1"]
+- !private ["So8NSObjectC", "lineBreakMode"]
+- ["So8NSObjectC", "playLet"]
+- ["So8NSObjectC", "player1Point"]
+- ["So8NSObjectC", "player1PointLabel"]
+- ["So8NSObjectC", "player2Point"]
+- ["So8NSObjectC", "player2PointLabel"]
+- ["So8NSObjectC", "pointToPlayer1"]
+- ["So8NSObjectC", "pointToPlayer2"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "stringToMake1"]
+- ["So8NSObjectC", "stringToMake2"]
+- ["So8NSObjectC", "stringToMakeLabel1"]
+- ["So8NSObjectC", "stringToMakeLabel2"]
+- ["So8NSObjectC", "switchPlayers"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "currentPlayerLabel"]
+- !private ["So8NSObjectP", "isPlayer1"]
+- !private ["So8NSObjectP", "lineBreakMode"]
+- !private ["So8NSObjectP", "player1Point"]
+- !private ["So8NSObjectP", "player1PointLabel"]
+- !private ["So8NSObjectP", "player2Point"]
+- !private ["So8NSObjectP", "player2PointLabel"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "stringToMake1"]
+- !private ["So8NSObjectP", "stringToMake2"]
+- !private ["So8NSObjectP", "stringToMakeLabel1"]
+- !private ["So8NSObjectP", "stringToMakeLabel2"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "append"]
+- !private ["Sq", "description"]
+- !private ["Sq", "lineBreakMode"]
+- !private ["Sq", "popLast"]
+- !private ["Sq", "text"]
+- !private ["Sk", "append"]
+- !private ["Sk", "description"]
+- !private ["Sk", "popLast"]
+- !private ["Sm", "append"]
+- !private ["Sm", "description"]
+- !private ["Sm", "init"]
+- !private ["Sm", "popLast"]
+- !private ["SY", "byTruncatingHead"]
+- !private ["ST", "append"]
+- !private ["ST", "description"]
+- !private ["ST", "init"]
+- !private ["ST", "popLast"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lineBreakMode"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "lineBreakMode"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "currentPlayerLabel"]
+- !private ["So21UIAppearanceContainerP", "isPlayer1"]
+- !private ["So21UIAppearanceContainerP", "lineBreakMode"]
+- !private ["So21UIAppearanceContainerP", "player1Point"]
+- !private ["So21UIAppearanceContainerP", "player1PointLabel"]
+- !private ["So21UIAppearanceContainerP", "player2Point"]
+- !private ["So21UIAppearanceContainerP", "player2PointLabel"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "stringToMake1"]
+- !private ["So21UIAppearanceContainerP", "stringToMake2"]
+- !private ["So21UIAppearanceContainerP", "stringToMakeLabel1"]
+- !private ["So21UIAppearanceContainerP", "stringToMakeLabel2"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "currentPlayerLabel"]
+- !private ["So18UIContentContainerP", "isPlayer1"]
+- !private ["So18UIContentContainerP", "player1Point"]
+- !private ["So18UIContentContainerP", "player1PointLabel"]
+- !private ["So18UIContentContainerP", "player2Point"]
+- !private ["So18UIContentContainerP", "player2PointLabel"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "stringToMake1"]
+- !private ["So18UIContentContainerP", "stringToMake2"]
+- !private ["So18UIContentContainerP", "stringToMakeLabel1"]
+- !private ["So18UIContentContainerP", "stringToMakeLabel2"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "lineBreakMode"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "lineBreakMode"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "lineBreakMode"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "currentPlayerLabel"]
+- !private ["So18UIFocusEnvironmentP", "isPlayer1"]
+- !private ["So18UIFocusEnvironmentP", "lineBreakMode"]
+- !private ["So18UIFocusEnvironmentP", "player1Point"]
+- !private ["So18UIFocusEnvironmentP", "player1PointLabel"]
+- !private ["So18UIFocusEnvironmentP", "player2Point"]
+- !private ["So18UIFocusEnvironmentP", "player2PointLabel"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "stringToMake1"]
+- !private ["So18UIFocusEnvironmentP", "stringToMake2"]
+- !private ["So18UIFocusEnvironmentP", "stringToMakeLabel1"]
+- !private ["So18UIFocusEnvironmentP", "stringToMakeLabel2"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "lineBreakMode"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "lineBreakMode"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "lineBreakMode"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "lineBreakMode"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "currentPlayerLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "isPlayer1"]
+- !private ["So30UIPasteConfigurationSupportingP", "lineBreakMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "player1Point"]
+- !private ["So30UIPasteConfigurationSupportingP", "player1PointLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "player2Point"]
+- !private ["So30UIPasteConfigurationSupportingP", "player2PointLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "stringToMake1"]
+- !private ["So30UIPasteConfigurationSupportingP", "stringToMake2"]
+- !private ["So30UIPasteConfigurationSupportingP", "stringToMakeLabel1"]
+- !private ["So30UIPasteConfigurationSupportingP", "stringToMakeLabel2"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "CL"]
+- ["So11UIResponderC", "CR"]
+- ["So11UIResponderC", "FL"]
+- ["So11UIResponderC", "FR"]
+- ["So11UIResponderC", "LL"]
+- ["So11UIResponderC", "LR"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "currentPlayerLabel"]
+- ["So11UIResponderC", "deleteLast"]
+- ["So11UIResponderC", "finish"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "isPlayer1"]
+- !private ["So11UIResponderC", "lineBreakMode"]
+- ["So11UIResponderC", "playLet"]
+- ["So11UIResponderC", "player1Point"]
+- ["So11UIResponderC", "player1PointLabel"]
+- ["So11UIResponderC", "player2Point"]
+- ["So11UIResponderC", "player2PointLabel"]
+- ["So11UIResponderC", "pointToPlayer1"]
+- ["So11UIResponderC", "pointToPlayer2"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "stringToMake1"]
+- ["So11UIResponderC", "stringToMake2"]
+- ["So11UIResponderC", "stringToMakeLabel1"]
+- ["So11UIResponderC", "stringToMakeLabel2"]
+- ["So11UIResponderC", "switchPlayers"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "currentPlayerLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "isPlayer1"]
+- !private ["So30UIResponderStandardEditActionsP", "lineBreakMode"]
+- !private ["So30UIResponderStandardEditActionsP", "player1Point"]
+- !private ["So30UIResponderStandardEditActionsP", "player1PointLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "player2Point"]
+- !private ["So30UIResponderStandardEditActionsP", "player2PointLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "stringToMake1"]
+- !private ["So30UIResponderStandardEditActionsP", "stringToMake2"]
+- !private ["So30UIResponderStandardEditActionsP", "stringToMakeLabel1"]
+- !private ["So30UIResponderStandardEditActionsP", "stringToMakeLabel2"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "currentPlayerLabel"]
+- !private ["So16UIStateRestoringP", "isPlayer1"]
+- !private ["So16UIStateRestoringP", "player1Point"]
+- !private ["So16UIStateRestoringP", "player1PointLabel"]
+- !private ["So16UIStateRestoringP", "player2Point"]
+- !private ["So16UIStateRestoringP", "player2PointLabel"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "stringToMake1"]
+- !private ["So16UIStateRestoringP", "stringToMake2"]
+- !private ["So16UIStateRestoringP", "stringToMakeLabel1"]
+- !private ["So16UIStateRestoringP", "stringToMakeLabel2"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "currentPlayerLabel"]
+- !private ["So18UITraitEnvironmentP", "isPlayer1"]
+- !private ["So18UITraitEnvironmentP", "lineBreakMode"]
+- !private ["So18UITraitEnvironmentP", "player1Point"]
+- !private ["So18UITraitEnvironmentP", "player1PointLabel"]
+- !private ["So18UITraitEnvironmentP", "player2Point"]
+- !private ["So18UITraitEnvironmentP", "player2PointLabel"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "stringToMake1"]
+- !private ["So18UITraitEnvironmentP", "stringToMake2"]
+- !private ["So18UITraitEnvironmentP", "stringToMakeLabel1"]
+- !private ["So18UITraitEnvironmentP", "stringToMakeLabel2"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "currentPlayerLabel"]
+- !private ["So23UIUserActivityRestoringP", "isPlayer1"]
+- !private ["So23UIUserActivityRestoringP", "lineBreakMode"]
+- !private ["So23UIUserActivityRestoringP", "player1Point"]
+- !private ["So23UIUserActivityRestoringP", "player1PointLabel"]
+- !private ["So23UIUserActivityRestoringP", "player2Point"]
+- !private ["So23UIUserActivityRestoringP", "player2PointLabel"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "stringToMake1"]
+- !private ["So23UIUserActivityRestoringP", "stringToMake2"]
+- !private ["So23UIUserActivityRestoringP", "stringToMakeLabel1"]
+- !private ["So23UIUserActivityRestoringP", "stringToMakeLabel2"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "lineBreakMode"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "CL"]
+- ["So16UIViewControllerC", "CR"]
+- ["So16UIViewControllerC", "FL"]
+- ["So16UIViewControllerC", "FR"]
+- ["So16UIViewControllerC", "LL"]
+- ["So16UIViewControllerC", "LR"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "currentPlayerLabel"]
+- ["So16UIViewControllerC", "deleteLast"]
+- ["So16UIViewControllerC", "finish"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "isPlayer1"]
+- ["So16UIViewControllerC", "playLet"]
+- ["So16UIViewControllerC", "player1Point"]
+- ["So16UIViewControllerC", "player1PointLabel"]
+- ["So16UIViewControllerC", "player2Point"]
+- ["So16UIViewControllerC", "player2PointLabel"]
+- ["So16UIViewControllerC", "pointToPlayer1"]
+- ["So16UIViewControllerC", "pointToPlayer2"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "stringToMake1"]
+- ["So16UIViewControllerC", "stringToMake2"]
+- ["So16UIViewControllerC", "stringToMakeLabel1"]
+- ["So16UIViewControllerC", "stringToMakeLabel2"]
+- ["So16UIViewControllerC", "switchPlayers"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["12matchChooser14ViewControllerC", "CL"]
+- ["12matchChooser14ViewControllerC", "CR"]
+- ["12matchChooser14ViewControllerC", "FL"]
+- ["12matchChooser14ViewControllerC", "FR"]
+- ["12matchChooser14ViewControllerC", "LL"]
+- ["12matchChooser14ViewControllerC", "LR"]
+- ["12matchChooser14ViewControllerC", "String"]
+- ["12matchChooser14ViewControllerC", "UILabel"]
+- ["12matchChooser14ViewControllerC", "currentPlayerLabel"]
+- ["12matchChooser14ViewControllerC", "deinit"]
+- ["12matchChooser14ViewControllerC", "deleteLast"]
+- ["12matchChooser14ViewControllerC", "finish"]
+- ["12matchChooser14ViewControllerC", "init"]
+- ["12matchChooser14ViewControllerC", "isPlayer1"]
+- ["12matchChooser14ViewControllerC", "playLet"]
+- ["12matchChooser14ViewControllerC", "player1Point"]
+- ["12matchChooser14ViewControllerC", "player1PointLabel"]
+- ["12matchChooser14ViewControllerC", "player2Point"]
+- ["12matchChooser14ViewControllerC", "player2PointLabel"]
+- ["12matchChooser14ViewControllerC", "pointToPlayer1"]
+- ["12matchChooser14ViewControllerC", "pointToPlayer2"]
+- !private ["12matchChooser14ViewControllerC", "print"]
+- ["12matchChooser14ViewControllerC", "stringToMake1"]
+- ["12matchChooser14ViewControllerC", "stringToMake2"]
+- ["12matchChooser14ViewControllerC", "stringToMakeLabel1"]
+- ["12matchChooser14ViewControllerC", "stringToMakeLabel2"]
+- ["12matchChooser14ViewControllerC", "switchPlayers"]
+- ["12matchChooser14ViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "description"]
+- !private ["s14_ArrayProtocolP", "popLast"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "description"]
+- !private ["s24_DestructorSafeContainerP", "popLast"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "description"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "popLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "description"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "popLast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentPlayerLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPlayer1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineBreakMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "player1Point"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "player1PointLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "player2Point"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "player2PointLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringToMake1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringToMake2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringToMakeLabel1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringToMakeLabel2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "currentPlayerLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isPlayer1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineBreakMode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "player1Point"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "player1PointLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "player2Point"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "player2PointLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringToMake1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringToMake2"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringToMakeLabel1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringToMakeLabel2"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "description"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "lineBreakMode"]
+- !private ["s21_ObjectiveCBridgeableP", "popLast"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lineBreakMode"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So15NSLineBreakModeV"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "12matchChooser14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "85cb7911fd9bbca83994a9eb04bf3fbc"

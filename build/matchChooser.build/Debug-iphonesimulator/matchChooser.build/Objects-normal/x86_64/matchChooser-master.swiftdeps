@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "4155104faeceac1508fbf49a63ddd347"
+build_time: [1594363521, 583758000]
+inputs:
+  "/Users/varunchitturi/Documents/Coding/Project_Development/matchChooser/matchChooser/ViewController.swift": [1594363517, 836272232]
+  "/Users/varunchitturi/Documents/Coding/Project_Development/matchChooser/matchChooser/AppDelegate.swift": [1594331081, 15053248]
+  "/Users/varunchitturi/Documents/Coding/Project_Development/matchChooser/matchChooser/SceneDelegate.swift": [1594331081, 18870644]
